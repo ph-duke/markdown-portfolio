@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Foods :+1:
+* Pizza
+* Mac n Cheese
+* Cereal
